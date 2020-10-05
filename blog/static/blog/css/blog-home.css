@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+a{
+color:black;
+}
+
+a:link{
+  color:green;
+}
+a:visited{
+  color:black;
+}
+a:hover{
+  color:red;
+}
+a:focus{
+  color:black;
+}
+a:active{
+  color:blue;
+}
+
+.card-img-top {
+  display: block;
+  max-width:500px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+}
